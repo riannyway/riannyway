@@ -12,6 +12,7 @@
    <img alt="MachineLearning" src="https://img.shields.io/badge/-MachineLearning-007ACC?style=flat-square&logo=coder&logoColor=white" />
    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
    <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat-square&logo=salla&logoColor=white" />
+   <img alt="NLP" src="https://img.shields.io/badge/-NLP-ea2845?style=flat-square&logo=namebase&logoColor=white"/>
 </p>
 <h3>Open source projects</h3>
 <table>
@@ -58,6 +59,6 @@
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
-</p>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you as soon as possible.
-</p>Now I live in shanghai, it's a beautiful city in china,welocme everyone visited~
-<img src="02857a2df821c890ff10fe29092a9d0.png" width="400"/>
+</p><h3>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you as soon as possible.</h3>
+</p><h3>Now I live in shanghai, it's a beautiful city in china,welocme everyone visited~</h3>
+<img src="02857a2df821c890ff10fe29092a9d0.png" width="300"/>
