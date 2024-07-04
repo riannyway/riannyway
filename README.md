@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**riannyway/riannyway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-hi~you can call me rain.
 
-Here are some ideas to get you started:
+-👻I'm a large-language model arithmetic engineer and devote to resarch LLM, such as fine-tuning large models, build applications with LLM,etc.
+   
+-🤝I can help you about NLP, machine learning and confused in language model.
+	 
+-🙏if you have any ideas about any area , I'm very intrested to listen~
+   
+-📧if you want to find me, ruichen4325@163.com  I'll get back to you as soon as possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-my favorite proverbs for you all : per aspera, ad astra
+
