@@ -57,8 +57,6 @@
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
-</p>📧find me: ruichen4325@163.com  I'll get back to you as soon as possible.
-</p>Now I live in shanghai, it's a beautiful city in china
-<p>
-
-</p>
+</p>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you as soon as possible.
+</p>Now I live in shanghai, it's a beautiful city in china,welocme everyone visited~
+<img src="02857a2df821c890ff10fe29092a9d0.png" width="400"/>
