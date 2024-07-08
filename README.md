@@ -58,6 +58,7 @@
     </tr>
   </tbody>
 </table>
+![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=riannyway&cn=true&theme=dark)
 </p><h3>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you as soon as possible.</h3>
 </p><h3>Now I live in shanghai, it's a beautiful city in china,welocme everyone visited~</h3>
 <img src="02857a2df821c890ff10fe29092a9d0.png" width="300"/>
