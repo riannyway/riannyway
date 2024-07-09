@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p><h3>Welcome my page!</br>🌧I'm rainy, an indiviudal developer from china <img src="https://github.com/riannyway/riannyway/assets/149923757/19f11cad-2eba-4269-ac38-eefa5d9d0fe4" width="14"/></h3> 
+<p><h3>Welcome my page!</br>you can call me rainy, I'm An indiviudal developer from china <img src="https://github.com/riannyway/riannyway/assets/149923757/19f11cad-2eba-4269-ac38-eefa5d9d0fe4" width="14"/></h3> 
 
 <h3>Things I code with</h3>
 <p>
@@ -14,6 +14,7 @@
    <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat-square&logo=salla&logoColor=white" />
    <img alt="NLP" src="https://img.shields.io/badge/-NLP-ea2845?style=flat-square&logo=namebase&logoColor=white"/>
 </p>
+
 <h3>My latest posts</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
