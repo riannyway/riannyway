@@ -16,3 +16,5 @@
 
 </p><h3>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you asap.</h3>
 
+![暗色](https://raw.githubusercontent.com/riannyway/riannyway/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/riannyway/riannyway/output/github-contribution-grid-snake.svg)
