@@ -1,7 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you!</h1>
 
-<p><h3>Welcome my page!
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=++++++++Welcome+to+my+Github++page!" alt="Typing SVG" /></a>
 </br>you can call me rainy, I'm a Fresh learner foucsed on multimoding Large Language Model.
 
 <h3>Things I code with:</h3>
