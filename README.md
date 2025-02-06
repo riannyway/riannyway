@@ -1,9 +1,10 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you!</h1>
+<img src=""/>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you~</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=++++++++Welcome+to+my+Github++page!" alt="Typing SVG" /></a>
-</br>you can call me rainy, I'm a Fresh learner foucsed on multimoding Large Language Model.
+</br>Hi,you can call me rainy, I'm a fresh learner foucsed on multimoding Large Language Model.
 
-<h3>Things I code with:</h3>
+Things I code with:
 <p>
    <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
    <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=C&logoColor=white" />
@@ -14,6 +15,6 @@
    <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat-square&logo=salla&logoColor=white" />
 </p>
 
-</p><h3>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you asap.</h3>
+<p>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you asap.</p>
 
 <img src="https://raw.githubusercontent.com/riannyway/riannyway/output/github-contribution-grid-snake.svg"/>
