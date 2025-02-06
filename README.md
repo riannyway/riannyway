@@ -1,20 +1,33 @@
-<img src=""/>
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you~</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you！</h1>
+<img src="my/image.png"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&width=435&lines=++++++++Welcome+to+my+Github+profile+page!" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=++++++++Welcome+to+my+Github++page!" alt="Typing SVG" /></a>
-</br>Hi,you can call me rainy, I'm a fresh learner foucsed on multimoding Large Language Model.
+<h1>🔭 About Me</h1>
 
-Things I code with:
-<p>
-   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-   <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=C&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-2088FF?style=flat-square&logo=JavaScript&logoColor=white" />
-   <img alt="WebDocker" src="https://img.shields.io/badge/-WebDocker-1a73e8?style=flat-square&logo=docker&logoColor=white" />
-   <img alt="MachineLearning" src="https://img.shields.io/badge/-MachineLearning-007ACC?style=flat-square&logo=coder&logoColor=white" />
-   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-   <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat-square&logo=salla&logoColor=white" />
-</p>
+**·** 👯 You can call me rainny, I'm XJTLU Y3 student, study in Su Zhou.
 
-<p>📧Finally, if you want to find me: ruichen4325@163.com  I'll get back to you asap.</p>
+**·** 🌱 Fresh learner about multimoding LLM.
+
+**·** 🐋 Datawhale Research assistance.
+
+**·** 👨‍💻 Language: Python, C++, JavaScript.
+
+**·** 📧 Connect with me: Priest_cr@163.com
 
 <img src="https://raw.githubusercontent.com/riannyway/riannyway/output/github-contribution-grid-snake.svg"/>
+
+<h1>✨Interest</h1>
+
+Model distillation: 
+
+NLP:
+
+<h1>Experience:</h1>
+
+[ Open 1+X AI 通识课:](https://www.datawhale.cn/open-ai) Core contributor. Joined designed Agent chapter, the general course is **the first AI general course in China jointly** created by the head open source community and top universities.
+
+[High frequency trading:]() Based on the transformer, designed and tunning model to predictly High frequency trading, get 95% accuarcy and low F1 score.
+
+
+
+
