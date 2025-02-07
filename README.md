@@ -18,11 +18,8 @@
 
 <h1>✨Interest</h1>
 
-Model distillation: 
 
-NLP:
-
-<h1>Experience:</h1>
+<h1>📑Experience:</h1>
 
 [ Open 1+X AI 通识课:](https://www.datawhale.cn/open-ai) Core contributor. Joined designed Agent chapter, the general course is **the first AI general course in China jointly** created by the head open source community and top universities.
 
