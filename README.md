@@ -4,11 +4,13 @@
 
 <h1>🔭 About Me</h1>
 
-**·** 👯 You can call me rainny, I'm XJTLU Y3 student, study in Su Zhou.
+**·** 👯 You can call me rainny, study XJTLU and base Su Zhou.
+
+**·** Primary Large language model Engineer.
 
 **·** 🌱 Fresh learner about multimoding LLM.
 
-**·** 🐋 Datawhale Research assistance.
+**·** 🐋 Datawhale Research assistant.
 
 **·** 👨‍💻 Language: Python, C++, JavaScript.
 
@@ -18,6 +20,7 @@
 
 <h1>✨Interest</h1>
 
+LLM: foucsed on industry model achivable structure and Enhanced model.
 
 <h1>📑Experience:</h1>
 
@@ -26,5 +29,6 @@
 [High frequency trading:]() Based on the transformer, designed and tunning model to predictly High frequency trading, get 95% accuarcy and low F1 score.
 
 
-
+[self-llm:](https://github.com/datawhalechina/self-llm) Contributor. Provides principles for generating open-ai big model thought chains. Of course, self-llm including very more Large Language model principle
+abd technology, welcome to fork🍴 and stars⭐ ~
 
