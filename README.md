@@ -6,7 +6,7 @@
 
 **·** 👯 You can call me rainny, study XJTLU and base Su Zhou.
 
-**·** Primary Large language model Engineer.
+**·** 👾 Large language model Engineer.
 
 **·** 🌱 Fresh learner about multimoding LLM.
 
@@ -20,7 +20,7 @@
 
 <h1>✨Interest</h1>
 
-LLM: foucsed on industry model achivable structure and Enhanced model.
+🗨️LLM: foucsed on industry model achivable structure and Enhanced model.
 
 <h1>📑Experience:</h1>
 
