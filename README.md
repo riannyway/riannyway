@@ -14,7 +14,7 @@
 
 **·** 👨‍💻 Language: Python, C++, JavaScript.
 
-**·** 📧 Connect with me: Priest_cr@163.com
+**·** 📧 contact details: Priest_cr@163.com
 
 <img src="https://raw.githubusercontent.com/riannyway/riannyway/output/github-contribution-grid-snake.svg"/>
 
